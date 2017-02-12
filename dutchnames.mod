@@ -1,5 +1,5 @@
 name="Dutch Country Names"
-path="mod/dutchnames/"
+path="mod/dutchmod/"
 tags={
 	"Translation"
 }
