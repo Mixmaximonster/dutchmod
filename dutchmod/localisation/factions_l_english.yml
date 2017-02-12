@@ -1,10 +1,10 @@
-﻿l_english:
+l_english:
  FACTION_LEADER:0 "Faction leader: §Y$COUNTRY$§!"
  FACTION_MEMBER:0 "Faction member: §Y$COUNTRY$§!"
  FACTION_NAME_GER_fascism:0 "Asmogendheden"
  FACTION_NAME_GER_none:0 "Asmogendheden"
  FACTION_NAME_IDEOLOGY_DEFAULT:0 "Supporters of $IDEOLOGY$"
- french_alliance:0 "French Alliance"
+ french_alliance:0 "De Franse Entente"
  the_berlin_moscow_axis:0 "De Berlijn-Moscow As"
  domination_francaise:0 "Dominatie Française"
  french_entente_alliance:0 "Franse-Entente Bondgenootschap"
